@@ -28,4 +28,12 @@ Deploy a serverless function to the cloud.
 Project `README.md` should include working example urls for deployed function.
 
 ### Testing:
-* []()
+#### search by capital:
+* [paris](https://capital-finder-3fqzroscn-alsosteve.vercel.app/api/capitol-finder?capital=paris)
+* [tokyo](https://capital-finder-3fqzroscn-alsosteve.vercel.app/api/capitol-finder?capital=tokyo)
+* [nassau](https://capital-finder-3fqzroscn-alsosteve.vercel.app/api/capitol-finder?capital=nassau)
+
+#### search by country:
+* [france](https://capital-finder-3fqzroscn-alsosteve.vercel.app/api/capitol-finder?country=france)
+* [japan](https://capital-finder-3fqzroscn-alsosteve.vercel.app/api/capitol-finder?country=japan)
+* [bahamas](https://capital-finder-3fqzroscn-alsosteve.vercel.app/api/capitol-finder?country=bahamas)
